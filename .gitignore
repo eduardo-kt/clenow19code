@@ -1,0 +1,2 @@
+# Arquivo .gitignore para ignorar a extensão .code-workspace
+*.code-workspace
